@@ -1,0 +1,2 @@
+Hallo Freunde.
+These Are Some Added Files About The Concept Of Object Orientation And Inheritance.
